@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-text-splitters
+pypdf
+sentence-transformers
+chromadb

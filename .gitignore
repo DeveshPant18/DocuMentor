@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor configuration files
+.idea/
+.vscode/
+
+# Project-specific generated folders
+# These are created by the app and should not be version controlled
+vector_db/
+temp_docs/
+
+# OS-specific files
+.DS_Store
